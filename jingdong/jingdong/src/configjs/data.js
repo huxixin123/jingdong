@@ -126,39 +126,156 @@ export default{
 			"txt":"全球尖货",
 			"text":"进口保健品",
 			"pink":"买三免一",
-			'img':"../../static/img/product/05.jpg"
+			'img':"../../static/img/product/r1.jpg"
 		},{
 			"txt":"京东精选",
 			"text":"每满1500-100",
-			'img':"../../static/img/product/06.jpg"
+			'img':"../../static/img/product/r2.jpg"
 		}],
 	'body22':[{
-			"txt":"京东超市",
-			"text":"满188减100",
-			'img':"../../static/img/product/07.jpg"
+			"txt":"京东体育",
+			"text":"夏装换新",
+			"pink":"运动潮牌",
+			'img':"../../static/img/product/r3.jpg"
 		},{
-			"txt":"爱家",
-			"text":"家装节199-100",
+			"txt":"奢家大牌",
+			"text":"钟表6期免息",
 			"pink":"家装节全品类",
-			'img':"../../static/img/product/08.jpg"
+			'img':"../../static/img/product/r4.jpg"
 		}],
 	'body33':[{
-			"txt":"爱宝宝",
-			"text":"爆款低至5折",
-			"pink":"超好看",
-			'img':"../../static/img/product/b1.jpg"
+			"txt":"环球时尚",
+			"text":"低至3折",
+			"pink":"80元券",
+			'img':"../../static/img/product/r5.jpg"
 		},{
-			"txt":"爱美丽",
-			"text":"美妆0元试用",
-			'img':"../../static/img/product/b2.jpg"
+			"txt":"珠宝首饰",
+			"text":"跨店3件7折",
+			'img':"../../static/img/product/r6.jpg"
 		},{
-			"txt":"爱吃",
-			"text":"低至9.9包邮",
-			'img':"../../static/img/product/b3.jpg"
+			"txt":"设计师",
+			"text":"潮流设计精选",
+			'img':"../../static/img/product/r7.jpg"
 		},{
-			"txt":"爱吃",
-			"text":"低至9.9包邮",
-			"pink":"爆款",
-			'img':"../../static/img/product/b4.jpg"
-		}]	
+			"txt":"买手甄选",
+			"text":"户外消夏季",
+			"pink":"自营",
+			'img':"../../static/img/product/r8.jpg"
+		}],
+		'No1':[{
+			"img":"../../static/img/banner/swiper/2/01.jpg",
+			"img":"../../static/img/banner/swiper/2/02.jpg",
+		}],
+		'No2':[{
+			"img1":"../../static/img/banner/swiper/1/01.jpg",
+			"img2":"../../static/img/banner/swiper/1/02.jpg",
+		}],
+	"paihang3":[{
+		"text":"智能生活",
+		"txt":"充电手机壳",
+		"pink":"低至1元",
+		'img':"../../static/img/product/p4.jpg"
+	}],
+	"paihang4":[
+		{
+			"text":"京东众筹",
+			"txt":"音乐摩托",
+			"pink":"抢神券",
+			'img':"../../static/img/product/p2.jpg"
+		},{
+			"text":"京东旅行",
+			"txt":"今日开房特价",
+			"pink":"抢神券",
+			'img':"../../static/img/product/p3.jpg"
+		}
+	],
+	'body111':[{
+			"txt":"白条商城",
+			"text":"电脑12期免息",
+			'img':"../../static/img/product/p4.jpg"
+		},{
+			"txt":"特产 扶贫",
+			"text":"广西工艺腐乳",
+			'img':"../../static/img/product/p5.jpg"
+		},{
+			"txt":"爱车生活",
+			"text":"大牌直降",
+			'img':"../../static/img/product/p6.jpg"
+		},{
+			"txt":"生活娱乐",
+			"text":"全场5折起",
+			'img':"../../static/img/product/p7.jpg"
+		}],
+	'body222':[{
+			"txt":"二手交易",
+			"text":"iPhone6秒杀",
+			"pink":"疯抢中",
+			'img':"../../static/img/product/p8.jpg"
+		},{
+			"txt":"大药房",
+			"text":"大牌直降",
+			'img':"../../static/img/product/p9.jpg"
+		},{
+			"txt":"陪伴宝宝",
+			"text":"1元抢好货",
+			'img':"../../static/img/product/p10.jpg"
+		},{
+			"txt":"京东拍卖",
+			"text":"尖货包经典装",
+			'img':"../../static/img/product/p11.jpg"
+		}],	
+		'food':[{
+			"txt":"休闲食品",
+			"text":"吃货集散中心",
+			'img1':"../../static/img/product/p12.jpg",
+			'img2':"../../static/img/product/p13.jpg",
+			'p':"三只松鼠京东自营养旗舰店"
+		},{
+			"txt":"手机通讯",
+			"text":"是不是在挑手机",
+			'img1':"../../static/img/product/p14.jpg",
+			'img2':"../../static/img/product/p15.jpg",
+			'p':"京东Apple产品专营店"
+		}],
+		'xiu':[{
+			"txt":"生活",
+			"text":"今天值得买|请你睡超美的酒店",
+			'img1':"../../static/img/product/p26.jpg"
+		},{
+			"txt":"潮搭",
+			"text":"中秋月圆美玉相伴",
+			'img1':"../../static/img/product/p27.jpg"
+		}],
+		'bottomNav':[{
+			'img':"../../static/img/product/p18.jpg",
+			"text":"驰琴纯棉免烫男装休闲裤男2017秋冬装新品100%棉休闲",
+			'mon':"158.00",
+			'good':"97"
+		},{
+			'img':"../../static/img/product/p19.jpg",
+			"text":"[京东配送]品胜苹果六数据线充电线适用苹果5s苹果6s",
+			'mon':"24.00",
+			'good':"95"
+		},{
+                img: "../../static/img/product/p20.jpg",
+                text: "春夏季软底无味防滑浴室洗澡拖鞋",
+                good: "89",
+                mon: "1000.00"
+         },{
+         	 img: "../../static/img/product/p21.jpg",
+                text: "【京东超市】爱华仕（OIWAS）7003防泼水大容量行李包手提旅行包",
+                good: "67",
+                mon: "10.00"
+         },{
+         	img: "../../static/img/product/p22.jpg",
+                text: "【京东超市】完美芦荟胶40g 3支装",
+                good: "89",
+                mon: "13.00"
+         },{
+         	img: "../../static/img/product/p23.jpg",
+                text: "实时特卖尖货,哈雷电动车 前后减震60v1000w两轮宽胎发顺风顺丰多少士大夫撒",
+                good: "98",
+                mon: "37.00"
+         }]
+
 }
